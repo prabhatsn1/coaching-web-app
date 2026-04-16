@@ -1,0 +1,662 @@
+{
+  "instituteInfo": {
+    "name": "Apex Academy",
+    "tagline": "Shaping Tomorrow's Leaders Today",
+    "description": "Apex Academy is a premier coaching institute dedicated to helping students achieve their academic goals through expert guidance, proven strategies, and a nurturing environment.",
+    "established": "2005",
+    "totalStudents": "15000+",
+    "successRate": "98%",
+    "awards": "50+",
+    "branches": "12",
+    "logoText": "AA",
+    "mission": "To empower every student with quality education, personalized mentoring, and the tools they need to excel in competitive examinations and beyond.",
+    "vision": "To be the most trusted name in academic coaching, producing not just toppers but well-rounded individuals ready for the challenges of the modern world.",
+    "values": [
+      {
+        "title": "Excellence",
+        "description": "We set the highest standards in teaching and learning."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honesty and transparency in everything we do."
+      },
+      {
+        "title": "Innovation",
+        "description": "Continuously evolving our methods to match modern needs."
+      },
+      {
+        "title": "Inclusivity",
+        "description": "Quality education accessible to every deserving student."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2005",
+        "event": "Apex Academy founded with 3 faculty members and 50 students in Pune."
+      },
+      {
+        "year": "2008",
+        "event": "Expanded to Mumbai with a second branch. First batch produces 10 IIT selections."
+      },
+      {
+        "year": "2011",
+        "event": "Launched online learning portal, reaching students across Maharashtra."
+      },
+      {
+        "year": "2014",
+        "event": "Opened 5 new branches across Western India. Student count crossed 5,000."
+      },
+      {
+        "year": "2017",
+        "event": "Introduced NEET coaching division. Ranked among Top 10 coaching institutes in India."
+      },
+      {
+        "year": "2020",
+        "event": "Transitioned to hybrid learning model during pandemic. Zero disruption to students."
+      },
+      {
+        "year": "2023",
+        "event": "15,000+ alumni network. 98% success rate in competitive examinations."
+      }
+    ]
+  },
+
+  "courses": [
+    {
+      "id": "jee-foundation",
+      "title": "JEE Foundation",
+      "subtitle": "Class 9 & 10",
+      "duration": "2 Years",
+      "fee": "₹45,000/year",
+      "icon": "🔬",
+      "badge": "Popular",
+      "description": "Build a rock-solid foundation in Physics, Chemistry, and Mathematics to prepare for JEE Main & Advanced.",
+      "highlights": [
+        "Daily doubt-clearing sessions",
+        "Weekly mock tests",
+        "NCERT + advanced problem solving",
+        "Study material included"
+      ],
+      "eligibility": "Students in Class 9 or 10 with 60%+ in Science and Math."
+    },
+    {
+      "id": "jee-main-advanced",
+      "title": "JEE Main & Advanced",
+      "subtitle": "Class 11 & 12",
+      "duration": "2 Years",
+      "fee": "₹75,000/year",
+      "icon": "⚡",
+      "badge": "Flagship",
+      "description": "Comprehensive JEE preparation with an emphasis on conceptual clarity and problem-solving speed.",
+      "highlights": [
+        "400+ hours of classroom teaching",
+        "IIT-patterned chapter-wise tests",
+        "Personal mentorship sessions",
+        "Previous year paper analysis"
+      ],
+      "eligibility": "Students appearing in Class 11 or 12 Board Examinations."
+    },
+    {
+      "id": "neet",
+      "title": "NEET UG Preparation",
+      "subtitle": "Class 11 & 12",
+      "duration": "2 Years",
+      "fee": "₹70,000/year",
+      "icon": "🩺",
+      "badge": "High Demand",
+      "description": "Focused NEET coaching covering Biology, Physics, and Chemistry with NCERT mastery.",
+      "highlights": [
+        "Dedicated Biology faculty",
+        "Full-length NEET mock tests",
+        "NCERT line-by-line analysis",
+        "Rank improvement workshops"
+      ],
+      "eligibility": "Students in Class 11 or 12 aspiring for MBBS/BDS admissions."
+    },
+    {
+      "id": "cbse-boards",
+      "title": "CBSE Board Excellence",
+      "subtitle": "Class 10 & 12",
+      "duration": "1 Year",
+      "fee": "₹30,000/year",
+      "icon": "📚",
+      "badge": "",
+      "description": "Score 95%+ in CBSE Board exams with our structured and comprehensive curriculum.",
+      "highlights": [
+        "Chapter-wise notes and revision",
+        "Model paper practice",
+        "Handwritten solutions",
+        "Parent-teacher PTMs"
+      ],
+      "eligibility": "Students in Class 10 or 12 under CBSE Board."
+    },
+    {
+      "id": "olympiad",
+      "title": "Olympiad Training",
+      "subtitle": "Class 6 to 10",
+      "duration": "1 Year",
+      "fee": "₹20,000/year",
+      "icon": "🏆",
+      "badge": "",
+      "description": "Prepare for NSO, IMO, and other national Olympiads with advanced problem sets.",
+      "highlights": [
+        "Logical reasoning focus",
+        "National-level mock Olympiads",
+        "Certificate of participation",
+        "Small batch size (max 20)"
+      ],
+      "eligibility": "Students in Class 6–10 with strong aptitude for Science or Math."
+    },
+    {
+      "id": "study-abroad",
+      "title": "SAT / ACT Prep",
+      "subtitle": "Grade 10 to 12",
+      "duration": "6 Months",
+      "fee": "₹55,000",
+      "icon": "✈️",
+      "badge": "New",
+      "description": "Expert coaching for SAT and ACT exams to help students get into top US universities.",
+      "highlights": [
+        "Verbal and Math strategy",
+        "8 full-length practice tests",
+        "Essay writing guidance",
+        "College shortlisting support"
+      ],
+      "eligibility": "Students in Grade 10–12 looking to apply to international universities."
+    }
+  ],
+
+  "admissions": {
+    "processSteps": [
+      {
+        "step": 1,
+        "title": "Fill Enquiry Form",
+        "description": "Submit your details online or visit our nearest branch to express your interest.",
+        "icon": "📝"
+      },
+      {
+        "step": 2,
+        "title": "Appear for Diagnostic Test",
+        "description": "Take a free diagnostic test to assess your current level and recommended batch.",
+        "icon": "📊"
+      },
+      {
+        "step": 3,
+        "title": "Counselling Session",
+        "description": "Meet our academic counsellors who will guide you on the best course and batch.",
+        "icon": "🤝"
+      },
+      {
+        "step": 4,
+        "title": "Document Submission",
+        "description": "Submit required documents: previous report card, ID proof, address proof.",
+        "icon": "📁"
+      },
+      {
+        "step": 5,
+        "title": "Fee Payment",
+        "description": "Complete fee payment online or at the branch counter via multiple payment options.",
+        "icon": "💳"
+      },
+      {
+        "step": 6,
+        "title": "Welcome & Orientation",
+        "description": "Attend the orientation session, receive study materials, and meet your mentors.",
+        "icon": "🎉"
+      }
+    ],
+    "importantDates": [
+      { "event": "Registration Open (Summer Batch)", "date": "April 1, 2026" },
+      { "event": "Diagnostic Test", "date": "April 20, 2026" },
+      { "event": "Summer Batch Begins", "date": "May 5, 2026" },
+      { "event": "Registration Open (Academic Batch)", "date": "June 1, 2026" },
+      { "event": "Academic Batch Begins", "date": "July 15, 2026" },
+      { "event": "Scholarship Test", "date": "May 15, 2026" }
+    ],
+    "eligibility": [
+      "Minimum 60% marks in the previous year's examination",
+      "Must have studied Science and Mathematics as core subjects",
+      "Age should be between 14–18 years for JEE/NEET programs",
+      "Applicants must pass the Apex Diagnostic Test",
+      "Submission of all required documents within 7 days of registration"
+    ],
+    "scholarships": [
+      { "rank": "Rank 1 in Diagnostic Test", "discount": "100% Fee Waiver" },
+      { "rank": "Rank 2–5", "discount": "50% Fee Waiver" },
+      { "rank": "Rank 6–10", "discount": "25% Fee Waiver" },
+      { "rank": "Sibling Discount", "discount": "15% on total fee" }
+    ]
+  },
+
+  "faculty": [
+    {
+      "id": "f1",
+      "name": "Dr. Priya Sharma",
+      "subject": "Mathematics",
+      "qualification": "PhD, IIT Bombay",
+      "experience": "18 Years",
+      "bio": "Dr. Sharma is a gold-medallist from IIT Bombay with a passion for making complex Mathematics intuitive and approachable.",
+      "achievements": "Produced 350+ IIT selections",
+      "avatar": "/faculty/priya.jpg",
+      "initials": "PS"
+    },
+    {
+      "id": "f2",
+      "name": "Mr. Arjun Mehta",
+      "subject": "Physics",
+      "qualification": "M.Sc Physics, Delhi University",
+      "experience": "14 Years",
+      "bio": "Arjun's unique problem-solving techniques have helped thousands of students crack JEE Advanced with top ranks.",
+      "achievements": "200+ AIR Top 500 selections",
+      "avatar": "/faculty/arjun.jpg",
+      "initials": "AM"
+    },
+    {
+      "id": "f3",
+      "name": "Ms. Sunita Iyer",
+      "subject": "Chemistry",
+      "qualification": "M.Sc, BITS Pilani",
+      "experience": "12 Years",
+      "bio": "Sunita specializes in Organic Chemistry and has authored two bestselling books used in coaching institutes across India.",
+      "achievements": "Author of 'Chem Simplified' series",
+      "avatar": "/faculty/sunita.jpg",
+      "initials": "SI"
+    },
+    {
+      "id": "f4",
+      "name": "Dr. Ramesh Patel",
+      "subject": "Biology",
+      "qualification": "MBBS, MD - Anatomy",
+      "experience": "20 Years",
+      "bio": "Dr. Patel brings real-world medical expertise to the classroom. His NEET students consistently achieve top 1% ranks.",
+      "achievements": "500+ NEET selections, 50+ AIR Top 100",
+      "avatar": "/faculty/ramesh.jpg",
+      "initials": "RP"
+    },
+    {
+      "id": "f5",
+      "name": "Ms. Kavita Nair",
+      "subject": "English & Verbal",
+      "qualification": "MA English, JNU",
+      "experience": "10 Years",
+      "bio": "Kavita's structured approach to language and comprehension has helped hundreds of students ace SAT and IELTS.",
+      "achievements": "Average 740/800 SAT Verbal score",
+      "avatar": "/faculty/kavita.jpg",
+      "initials": "KN"
+    },
+    {
+      "id": "f6",
+      "name": "Mr. Vivek Joshi",
+      "subject": "Mathematics (Olympiad)",
+      "qualification": "B.Tech IIT Madras",
+      "experience": "8 Years",
+      "bio": "A national Olympiad medalist himself, Vivek trains the next generation of Olympiad champions with deep analytical methods.",
+      "achievements": "15 National Olympiad medalists",
+      "avatar": "/faculty/vivek.jpg",
+      "initials": "VJ"
+    }
+  ],
+
+  "results": {
+    "counters": [
+      { "label": "Students Trained", "value": 15000, "suffix": "+" },
+      { "label": "IIT Selections", "value": 2800, "suffix": "+" },
+      { "label": "NEET Qualifiers", "value": 3500, "suffix": "+" },
+      { "label": "Success Rate", "value": 98, "suffix": "%" }
+    ],
+    "toppers": [
+      {
+        "name": "Aarav Singh",
+        "exam": "JEE Advanced 2024",
+        "rank": "AIR 12",
+        "branch": "CSE, IIT Bombay",
+        "year": "2024",
+        "quote": "Apex Academy's structured approach and dedicated faculty made the impossible possible.",
+        "initials": "AS"
+      },
+      {
+        "name": "Sneha Kulkarni",
+        "exam": "NEET 2024",
+        "rank": "AIR 47",
+        "branch": "MBBS, AIIMS Delhi",
+        "year": "2024",
+        "quote": "The mock test series here is unparalleled. It perfectly simulates the real exam environment.",
+        "initials": "SK"
+      },
+      {
+        "name": "Rohan Desai",
+        "exam": "JEE Advanced 2023",
+        "rank": "AIR 8",
+        "branch": "CSE, IIT Delhi",
+        "year": "2023",
+        "quote": "Three years of hard work paid off. The mentors here believed in me more than I believed in myself.",
+        "initials": "RD"
+      },
+      {
+        "name": "Priya Agarwal",
+        "exam": "NEET 2023",
+        "rank": "AIR 23",
+        "branch": "MBBS, AIIMS Jodhpur",
+        "year": "2023",
+        "quote": "The daily doubt sessions were a game-changer. No question was ever left unanswered.",
+        "initials": "PA"
+      },
+      {
+        "name": "Kiran Bhatt",
+        "exam": "JEE Main 2024",
+        "rank": "100 Percentile",
+        "branch": "NIT Trichy, ECE",
+        "year": "2024",
+        "quote": "Apex's formula sheets and revision strategy helped me score full marks in Chemistry.",
+        "initials": "KB"
+      },
+      {
+        "name": "Ananya Verma",
+        "exam": "SAT 2024",
+        "rank": "Score 1580/1600",
+        "branch": "Admitted to MIT",
+        "year": "2024",
+        "quote": "The SAT course here is very focused and efficient. Got my dream score in 3 months.",
+        "initials": "AV"
+      }
+    ],
+    "yearlyStats": [
+      { "year": "2024", "jee": 320, "neet": 410, "others": 190 },
+      { "year": "2023", "jee": 290, "neet": 380, "others": 160 },
+      { "year": "2022", "jee": 260, "neet": 340, "others": 140 },
+      { "year": "2021", "jee": 230, "neet": 310, "others": 120 }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Meera Joshi",
+      "role": "Parent",
+      "relation": "Mother of Rohan (JEE 2024)",
+      "quote": "I was sceptical at first, but watching my son grow from a nervous student to an IIT qualifier has been the proudest moment of our family's life. Apex Academy's team deserves full credit.",
+      "rating": 5,
+      "initials": "MJ"
+    },
+    {
+      "id": "t2",
+      "name": "Vikram Shankar",
+      "role": "Student",
+      "relation": "JEE Advanced 2024, AIR 55",
+      "quote": "The faculty at Apex don't just teach — they mentor. I could call my Physics teacher any time with doubts and he'd patiently explain everything. That kind of support is rare.",
+      "rating": 5,
+      "initials": "VS"
+    },
+    {
+      "id": "t3",
+      "name": "Rekha Nambiar",
+      "role": "Parent",
+      "relation": "Mother of Ananya (NEET 2023)",
+      "quote": "The regular parent-teacher meetings gave us full visibility into our daughter's progress. I always felt informed and involved in her journey.",
+      "rating": 5,
+      "initials": "RN"
+    },
+    {
+      "id": "t4",
+      "name": "Aditya Kapoor",
+      "role": "Student",
+      "relation": "NEET 2024, AIR 120",
+      "quote": "The test series is the best I've ever attempted. Every mistake taught me something. The analytics after each test were genuinely insightful.",
+      "rating": 5,
+      "initials": "AK"
+    },
+    {
+      "id": "t5",
+      "name": "Suresh Pillai",
+      "role": "Parent",
+      "relation": "Father of Kiran (JEE Main 100%ile)",
+      "quote": "Affordable fees, excellent faculty, and outstanding results. Apex Academy is truly the best investment we made for our son's future.",
+      "rating": 5,
+      "initials": "SP"
+    },
+    {
+      "id": "t6",
+      "name": "Tanya Bose",
+      "role": "Student",
+      "relation": "SAT 2024, Score 1560",
+      "quote": "Coming from a non-English medium background, I was intimidated by SAT. But Kavita ma'am made it so approachable. I couldn't have done it without Apex.",
+      "rating": 5,
+      "initials": "TB"
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Annual Prize Distribution 2024",
+      "category": "Events",
+      "description": "Students and faculty celebrate academic excellence at the annual award ceremony.",
+      "aspectRatio": "landscape",
+      "imageUrl": "https://picsum.photos/seed/award2024/1200/600"
+    },
+    {
+      "id": "g2",
+      "title": "JEE Mock Test Day",
+      "category": "Academics",
+      "description": "Students appearing for the full-length JEE mock test in our state-of-the-art examination hall.",
+      "aspectRatio": "portrait",
+      "imageUrl": "https://picsum.photos/seed/examhall/800/1000"
+    },
+    {
+      "id": "g3",
+      "title": "Science Lab Sessions",
+      "category": "Academics",
+      "description": "Hands-on experiments help students understand theory at a deeper level.",
+      "aspectRatio": "square",
+      "imageUrl": "https://picsum.photos/seed/sciencelab/800/800"
+    },
+    {
+      "id": "g4",
+      "title": "Teacher's Day Celebration",
+      "category": "Events",
+      "description": "Students expressing gratitude to their mentors on Teacher's Day.",
+      "aspectRatio": "landscape",
+      "imageUrl": "https://picsum.photos/seed/teacherday/1200/600"
+    },
+    {
+      "id": "g5",
+      "title": "New Batch Orientation",
+      "category": "Admissions",
+      "description": "Fresh batch of students attend the orientation session and meet their faculty.",
+      "aspectRatio": "portrait",
+      "imageUrl": "https://picsum.photos/seed/orientation/800/1000"
+    },
+    {
+      "id": "g6",
+      "title": "IIT Selection Celebration",
+      "category": "Results",
+      "description": "Ecstatic students celebrate after JEE Advanced results with their families.",
+      "aspectRatio": "landscape",
+      "imageUrl": "https://picsum.photos/seed/iitcelebrate/1200/600"
+    },
+    {
+      "id": "g7",
+      "title": "Parent-Teacher Meet",
+      "category": "Events",
+      "description": "Regular PTM sessions keep parents informed and engaged in their child's progress.",
+      "aspectRatio": "square",
+      "imageUrl": "https://picsum.photos/seed/parentmeet/800/800"
+    },
+    {
+      "id": "g8",
+      "title": "Digital Classroom Setup",
+      "category": "Academics",
+      "description": "Our smart classrooms equipped with interactive boards and recording facilities.",
+      "aspectRatio": "landscape",
+      "imageUrl": "https://picsum.photos/seed/classroom/1200/600"
+    },
+    {
+      "id": "g9",
+      "title": "NEET Topper Felicitation",
+      "category": "Results",
+      "description": "NEET toppers being felicitated by the institute director at a special ceremony.",
+      "aspectRatio": "portrait",
+      "imageUrl": "https://picsum.photos/seed/neettopper/800/1000"
+    }
+  ],
+
+  "blogPosts": [
+    {
+      "id": "b1",
+      "title": "How to Crack JEE Advanced in Your First Attempt",
+      "slug": "crack-jee-advanced-first-attempt",
+      "category": "JEE Tips",
+      "author": "Mr. Arjun Mehta",
+      "date": "March 15, 2026",
+      "readTime": "8 min read",
+      "excerpt": "The journey from JEE Main to JEE Advanced is one of the toughest academic challenges in India. Here's a battle-tested strategy from our expert faculty.",
+      "tags": ["JEE", "Strategy", "Physics"]
+    },
+    {
+      "id": "b2",
+      "title": "NEET 2026: Complete Syllabus Analysis and Preparation Guide",
+      "slug": "neet-2026-syllabus-guide",
+      "category": "NEET Tips",
+      "author": "Dr. Ramesh Patel",
+      "date": "March 2, 2026",
+      "readTime": "12 min read",
+      "excerpt": "NEET 2026 brings some changes to the syllabus. Dr. Patel breaks down every subject, chapter by chapter, with a weightage analysis.",
+      "tags": ["NEET", "Biology", "Syllabus"]
+    },
+    {
+      "id": "b3",
+      "title": "5 Common Mistakes Students Make During Board Exam Preparation",
+      "slug": "board-exam-mistakes",
+      "category": "Study Tips",
+      "author": "Ms. Kavita Nair",
+      "date": "February 22, 2026",
+      "readTime": "5 min read",
+      "excerpt": "From poor time management to ignoring NCERT — here are the five most common mistakes that cost students marks in board exams.",
+      "tags": ["Boards", "Tips", "Strategy"]
+    },
+    {
+      "id": "b4",
+      "title": "Understanding Organic Chemistry: A Beginner's Roadmap",
+      "slug": "organic-chemistry-roadmap",
+      "category": "Chemistry",
+      "author": "Ms. Sunita Iyer",
+      "date": "February 10, 2026",
+      "readTime": "10 min read",
+      "excerpt": "Organic Chemistry doesn't have to be scary. Sunita ma'am shares a beginner-friendly roadmap to mastering mechanisms and reactions.",
+      "tags": ["Chemistry", "Organic", "JEE", "NEET"]
+    },
+    {
+      "id": "b5",
+      "title": "Olympiad vs JEE: How Early Preparation Gives You an Edge",
+      "slug": "olympiad-vs-jee-early-prep",
+      "category": "Strategy",
+      "author": "Mr. Vivek Joshi",
+      "date": "January 28, 2026",
+      "readTime": "7 min read",
+      "excerpt": "Starting Olympiad training in Class 8 or 9 can give students a massive conceptual advantage when they appear for JEE later. Here's why.",
+      "tags": ["Olympiad", "JEE", "Early Prep"]
+    },
+    {
+      "id": "b6",
+      "title": "How to Score 95%+ in CBSE Class 12 Maths",
+      "slug": "cbse-class-12-maths-strategy",
+      "category": "CBSE Tips",
+      "author": "Dr. Priya Sharma",
+      "date": "January 12, 2026",
+      "readTime": "9 min read",
+      "excerpt": "Class 12 Maths can be the difference between a good college and a great one. Dr. Sharma shares her chapter-by-chapter scoring strategy.",
+      "tags": ["CBSE", "Mathematics", "Class 12"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "id": "faq1",
+      "question": "When do admissions open for the next batch?",
+      "answer": "Admissions are open twice a year — in April for the Summer Batch and in June for the Academic Year Batch. Visit our Admissions page for exact dates and deadlines."
+    },
+    {
+      "id": "faq2",
+      "question": "What is the batch size for each course?",
+      "answer": "We maintain small, focused batches of 20–30 students for JEE/NEET courses and a maximum of 20 for Olympiad programs, ensuring personalized attention for every student."
+    },
+    {
+      "id": "faq3",
+      "question": "Is online coaching available?",
+      "answer": "Yes! Apex Academy offers a hybrid model. You can attend classes at our physical centres or access recorded sessions and live online classes through our learning portal."
+    },
+    {
+      "id": "faq4",
+      "question": "Are instalment options available for fee payment?",
+      "answer": "Absolutely. We offer a flexible instalment plan — 50% at the time of admission and the remaining 50% within 90 days. Contact our admissions desk for details."
+    },
+    {
+      "id": "faq5",
+      "question": "How are doubt-clearing sessions conducted?",
+      "answer": "Dedicated doubt-clearing sessions are held every day from 5 PM to 7 PM at every branch. Students can also submit doubts online through our portal for responses within 24 hours."
+    },
+    {
+      "id": "faq6",
+      "question": "Do you provide hostel or accommodation facilities?",
+      "answer": "We have tie-ups with verified PG accommodations near our major branches in Pune and Mumbai. Contact our admissions office for a recommended list."
+    },
+    {
+      "id": "faq7",
+      "question": "What study materials are provided?",
+      "answer": "All enrolled students receive a complete printed study material package including theory booklets, exercise sheets, and formula cards. Digital access is also provided."
+    },
+    {
+      "id": "faq8",
+      "question": "Is there a scholarship program?",
+      "answer": "Yes! We offer merit-based scholarships based on the Apex Diagnostic Test. Top performers can get up to 100% fee waiver. Visit our Admissions page for details."
+    },
+    {
+      "id": "faq9",
+      "question": "Can parents track their child's progress?",
+      "answer": "Yes. Parents have access to a dedicated portal showing attendance, test performance, and overall progress reports. We also conduct monthly PTMs (Parent-Teacher Meetings)."
+    },
+    {
+      "id": "faq10",
+      "question": "How do I apply from a city where you don't have a branch?",
+      "answer": "Our online program is available pan-India. You can enrol for fully online courses, access all study materials digitally, and attend live classes from anywhere."
+    }
+  ],
+
+  "contactDetails": {
+    "headOffice": {
+      "address": "Apex Academy, 3rd Floor, Wisdom Tower, FC Road, Shivajinagar, Pune - 411004",
+      "phone": "+91 20 4567 8900",
+      "email": "info@apexacademy.edu.in",
+      "hours": "Monday–Saturday, 9:00 AM – 7:00 PM"
+    },
+    "branches": [
+      {
+        "city": "Pune (HQ)",
+        "address": "Wisdom Tower, FC Road, Shivajinagar, Pune - 411004",
+        "phone": "+91 20 4567 8900"
+      },
+      {
+        "city": "Mumbai",
+        "address": "Inspire House, Linking Road, Bandra West, Mumbai - 400050",
+        "phone": "+91 22 6789 0123"
+      },
+      {
+        "city": "Nashik",
+        "address": "Knowledge Park, College Road, Nashik - 422005",
+        "phone": "+91 253 678 9000"
+      },
+      {
+        "city": "Aurangabad",
+        "address": "Apex Centre, Jalna Road, Aurangabad - 431001",
+        "phone": "+91 240 567 8901"
+      }
+    ],
+    "socialLinks": {
+      "facebook": "#",
+      "instagram": "#",
+      "youtube": "#",
+      "twitter": "#",
+      "linkedin": "#"
+    }
+  }
+}
